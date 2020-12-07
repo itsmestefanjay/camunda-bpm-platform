@@ -48,7 +48,7 @@
     If you change it here, also change it there -->
     <version.tomcat>9.0.36</version.tomcat>
 
-    <version.arquillian>1.1.10.Final</version.arquillian>
+    <version.arquillian>1.6.0.Final</version.arquillian>
     <version.shrinkwrap.resolvers>2.2.2</version.shrinkwrap.resolvers>
     <version.selenium>2.45.0</version.selenium>
     <version.freemarker>2.3.29</version.freemarker>
