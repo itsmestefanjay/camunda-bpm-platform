@@ -653,7 +653,7 @@
     <profile>
       <id>wink</id>
       <properties>
-        <version.slf4j>1.5.11</version.slf4j>
+        <version.slf4j>1.7.30</version.slf4j>
         <version.logback>0.9.20</version.logback>
       </properties>
       <dependencies>
