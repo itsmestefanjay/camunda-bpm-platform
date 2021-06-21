@@ -101,7 +101,7 @@
     "lint-staged": "8.1.7",
     "load-grunt-tasks": "5.1.0",
     "mkdirp": "0.5.1",
-    "mocha": "6.0.2",
+    "mocha": "9.0.1",
     "mocha-multi": "1.0.1",
     "mocha-proshot": "1.0.1",
     "persistify": "2.0.1",
