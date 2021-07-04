@@ -20,7 +20,7 @@
     <resteasy.netty.version>2.3.6.Final</resteasy.netty.version>
     <!-- other JAX-RS implementations -->
     <wink.version>1.1.1-incubating</wink.version>
-    <jersey.version>1.17.1</jersey.version>
+    <jersey.version>1.19.4</jersey.version>
     <javax.activation.version>1.1.1</javax.activation.version>
   </properties>
 
